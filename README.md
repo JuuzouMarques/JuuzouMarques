@@ -7,7 +7,7 @@ Estudante de Engenharia da Computação e iniciante na vida de programador.
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Juuzou-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Juuzou-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Juuzou-Pandas" height="30" width="40" src="https://pandas.pydata.org/static/img/favicon_white.ico">
   <img align="center" alt="Juuzou-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Juuzou-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juuzou-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
